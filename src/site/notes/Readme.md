@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/Readme/","tags":["gardenEntry"]}
 ---
 
+
 [logseq搭建的](https://logseq.oceanum.top)
-网站内容截止2024年12月09日，之后更新的笔记暂停上传
+
 # 1 目录
 
 - [[Categories/工具效率\|工具效率]]
@@ -18,6 +19,7 @@
 
 # 2 近期更新
 
+- [[Readme\|Readme]]
 - [[Categories/Clippings\|Clippings]]
 - [[Categories/书籍\|书籍]]
 - [[Categories/视频\|视频]]
@@ -37,6 +39,5 @@
 - [[Clippings/WuCai/2024/11/人生需要浮士德精神 - 太隐-20241110\|人生需要浮士德精神 - 太隐-20241110]]
 - [[Clippings/WuCai/2024/11/零元购与民主  夜未央-20241107\|零元购与民主  夜未央-20241107]]
 - [[Clippings/WuCai/2024/11/这人了得日后定能当上美国总统-20241106\|这人了得日后定能当上美国总统-20241106]]
-- [[Clippings/WuCai/2024/11/解锁清爽居家环境：如何入门除霉与清洁 ｜ 少数派会员 π+Prime-20241105\|解锁清爽居家环境：如何入门除霉与清洁 ｜ 少数派会员 π+Prime-20241105]]
 
 { .block-language-dataview}
